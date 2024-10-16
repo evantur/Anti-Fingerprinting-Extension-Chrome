@@ -1,5 +1,5 @@
 **TO INSTALL EXTENSION**
-1. Install these disguise, manifest, and sandbox files into a folder
+1. Install the disguise, manifest, and sandbox files into a folder
 2. Open chrome, go to extensions
 3. Enable developer mode (switch top right)
 4. Click 'load unpacked'
